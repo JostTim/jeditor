@@ -1,0 +1,14 @@
+{
+  "Behaviour": {
+    "Une belle journée": "d'hiver"
+  },
+  "QC": [
+    12,
+    12,
+    12
+  ],
+  "Whisker_Params": {
+    "Whisker Right": "12",
+    "whisker_stim_frequency": "4000milliards"
+  }
+}

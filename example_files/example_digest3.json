@@ -1,0 +1,10 @@
+{
+  "Behaviour": {
+    "Une belle journée": "de printemps"
+  },
+  "QC": "passed",
+  "Whisker_Params": {
+    "Whisker Right": "1",
+    "whisker_stim_frequency": "90"
+  }
+}

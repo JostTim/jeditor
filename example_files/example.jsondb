@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Behaviour",
+    "content": [
+      {
+        "name": "Une belle journée",
+        "value": "de printemps",
+        "default": "de printemps",
+        "dtype": "dynamic",
+        "description": "d'hiver ?",
+        "is_default": true,
+        "is_shown": true
+      }
+    ],
+    "description": "= Le comportement",
+    "is_shown": null
+  },
+  {
+    "name": "QC",
+    "value": "passed",
+    "default": "passed",
+    "dtype": "dynamic",
+    "description": "Quality check",
+    "is_default": true,
+    "is_shown": true
+  },
+  {
+    "name": "Whisker_Params",
+    "content": [
+      {
+        "name": "Whisker Right",
+        "value": "1",
+        "default": "1",
+        "dtype": "dynamic",
+        "description": "whisker droite",
+        "is_default": true,
+        "is_shown": true
+      },
+      {
+        "name": "whisker_stim_frequency",
+        "value": "90",
+        "default": "90",
+        "dtype": "dynamic",
+        "description": "stim fréquence",
+        "is_default": true,
+        "is_shown": true
+      }
+    ],
+    "description": "Une description efficace",
+    "is_shown": null
+  }
+]

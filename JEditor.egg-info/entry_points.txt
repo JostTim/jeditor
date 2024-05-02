@@ -1,0 +1,2 @@
+[console_scripts]
+JEditor = JEditor.__init__:cli

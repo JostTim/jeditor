@@ -1,0 +1,16 @@
+README.md
+setup.py
+JEditor/__init__.py
+JEditor/core.py
+JEditor/file_io.py
+JEditor/qtgui.py
+JEditor/test.py
+JEditor.egg-info/PKG-INFO
+JEditor.egg-info/SOURCES.txt
+JEditor.egg-info/dependency_links.txt
+JEditor.egg-info/entry_points.txt
+JEditor.egg-info/requires.txt
+JEditor.egg-info/top_level.txt
+JEditor/assets/app_icon.ico
+JEditor/assets/app_icon.svg
+JEditor/assets/refresh_button.svg

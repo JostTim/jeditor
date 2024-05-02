@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: JEditor
+Version: 1.0.0
+Summary: JEditor is a Json nested parameters editor
+Home-page: https://gitlab.pasteur.fr/haisslab/analysis-packages/Inflow
+Author: Timothé Jost-MOUSSEAU
+Author-email: timothe.jost-mousseau@pasteur.com
+License: MIT
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
